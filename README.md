@@ -1,6 +1,8 @@
 # CEH
 How to pass Ec-council Certified Ethical Hacker - CEHv11 exam by Faisal Mohammed- 2023
 
+-I got 124/125 by following this approach.
+
 Are you preparing for your CEH exam in the coming months or weeks?, you are in the right place because I will provide you with all the resources that you need upon my expierence to absouloutly smash that CEH exam, first of all you have actually two approaches to get this certificate:
 
 1-The first approach is the actual slow learning road and this is best suited for people that have time to prepare and actually have interest in the materials, and CEH content are no doubt enjoyable.
